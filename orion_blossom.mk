@@ -30,7 +30,7 @@ TARGET_BOOT_ANIMATION_RES := 1080
 # Bootanimation for Pixel Devices
 TARGET_PIXEL_BOOT_ANIMATION_RES := 1080
 
-PRODUCT_NAME := lineage_blossom
+PRODUCT_NAME := orion_blossom
 PRODUCT_DEVICE := blossom
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_BRAND := Redmi
