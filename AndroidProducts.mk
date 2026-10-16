@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_blossom.mk
+    $(LOCAL_DIR)/aosp_blossom.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_blossom-user \
-    arrow_blossom-userdebug \
-    arrow_blossom-eng
+    aosp_blossom-user \
+    aosp_blossom-userdebug \
+    aosp_blossom-eng
