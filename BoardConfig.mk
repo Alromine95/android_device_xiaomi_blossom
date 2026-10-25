@@ -68,6 +68,7 @@ TARGET_PREBUILT_KERNEL := $(DEVICE_PATH)-kernel/kernel # automatically copied
 TARGET_PREBUILT_DTB := $(DEVICE_PATH)-kernel/dtb.img # for mkbootimg only
 BOARD_PREBUILT_DTBOIMAGE := $(DEVICE_PATH)-kernel/dtbo.img # automatically copied
 TARGET_FORCE_PREBUILT_KERNEL := true # dont really build with our imcomplete "source"
+KERNEL_MAKE_CMD := make
 
 # Bootloader
 BOARD_BOOT_HEADER_VERSION := 2
