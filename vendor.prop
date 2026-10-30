@@ -34,7 +34,7 @@ ro.vendor.mtk.bt_sap_enable=true
 persist.sys.brightness.low.gamma=true
 
 # Cached app compaction
-persist.device_config.activity_manager.use_compaction=false
+persist.device_config.activity_manager.use_compaction=true
 
 # Camera
 camera.disable_zsl_mode=1
